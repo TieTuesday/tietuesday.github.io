@@ -1,6 +1,6 @@
-layout: page
+---
 title: "THE RUMBLE FISH 2"
-permalink: /TheRumbleFish2
+---
 
 THE RUMBLE FISH 2
 
