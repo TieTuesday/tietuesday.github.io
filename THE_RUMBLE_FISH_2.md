@@ -1,5 +1,6 @@
 ---
 title: "THE RUMBLE FISH 2"
+categories: [game]
 ---
 
 THE RUMBLE FISH 2
