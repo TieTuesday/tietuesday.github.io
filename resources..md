@@ -1,3 +1,4 @@
+---
 {% for cat in site.category-list %}
 ### {{ cat }}
 <ul>
@@ -12,3 +13,4 @@
   {% endfor %}  <!-- page -->
 </ul>
 {% endfor %}  <!-- cat -->
+---
