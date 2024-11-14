@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "TOY FIGHTER"
-permalink: /TOY_FIGHTER
 theme: jekyll-theme-merlot
 ---
 
