@@ -1,6 +1,6 @@
-layout: page
+---
 title: "Kizuna Encounter Super Tag"
-permalink: /KizunaEncounterSuperTag
+---
 
 Kizuna Encounter Super Tag
 
