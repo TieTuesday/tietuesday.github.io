@@ -24,6 +24,3 @@ safe, in the red window it attempts a reversal... THESE ARE KEY
 6) sometimes it catches rolling as a prank
 
 7) no really throw into super cancel you take the round
-
-
-[hoping this links to the rumble fish page](THE_RUMBLE_FISH_2.md)
