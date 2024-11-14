@@ -1,5 +1,5 @@
 ---
-title: "TOY_FIGHTER"
+title: "TOY FIGHTER"
 permalink: /:title
 ---
 
