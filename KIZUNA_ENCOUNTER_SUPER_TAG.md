@@ -1,6 +1,7 @@
 ---
 title: "Kizuna Encounter Super Tag"
 categories: [game]
+resource: true
 ---
 
 Kizuna Encounter Super Tag
