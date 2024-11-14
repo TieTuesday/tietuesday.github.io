@@ -1,6 +1,7 @@
 ---
 title: "TOY FIGHTER"
 categories: [game]
+resource: true
 ---
 
 TOY FIGHTER
