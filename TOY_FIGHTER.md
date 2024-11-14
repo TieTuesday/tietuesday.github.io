@@ -26,3 +26,5 @@ safe, in the red window it attempts a reversal... THESE ARE KEY
 6) sometimes it catches rolling as a prank
 
 7) no really throw into super cancel you take the round
+
+[BACK TO INDEX](INDEX.md)
