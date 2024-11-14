@@ -1,5 +1,6 @@
 ---
 title: "TOY FIGHTER"
+categories: [game]
 ---
 
 TOY FIGHTER
