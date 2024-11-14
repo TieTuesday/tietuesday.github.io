@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "TOY FIGHTER"
-theme: jekyll-theme-merlot
 ---
 
 TOY FIGHTER
