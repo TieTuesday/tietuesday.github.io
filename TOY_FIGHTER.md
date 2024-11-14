@@ -1,5 +1,6 @@
 ---
 title: "TOY FIGHTER"
+permalink: /:title
 ---
 
 TOY FIGHTER
